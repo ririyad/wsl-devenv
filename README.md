@@ -7,6 +7,15 @@ Personal Developer Environment at WSL in Windows
 
 ### Installing g++
 ---------------------------
+From terminal
+```code
+sudo apt install build-essential
+```
+
+From terminal
+```code
+g++ --version
+```
 
 
 ### Installing node 
@@ -18,3 +27,8 @@ From terminal:
 ```code
 sudo apt install golang
 ```
+Version Checking
+```code
+ go version
+``` 
+
