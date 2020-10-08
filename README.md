@@ -14,3 +14,7 @@ Personal Developer Environment at WSL in Windows
 
 ### Installing Golang
 -------------------------
+From terminal: 
+```code
+sudo apt install golang
+```
